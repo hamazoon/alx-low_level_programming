@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * create_file :create a file with read/write access for user
+ * create_file - create a file with read/write access for user
  *
  * @text_content: is a NULL terminated string to write to the file
  * @filename: is the name of the file to create
